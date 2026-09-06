@@ -1,9 +1,11 @@
 
-The repository consists of results, data used for the study, and code for all the methods.
 
-The direct and indirect codes are adaptation from https://github.com/ridiculouz/LLMaAA/tree/main and https://github.com/trister95/direct-and-indirect-annotation
+# KATE VS LLMaAA
+This repository consists of code for the Master's Thesis **"The Comparative Evaluation of Methods and Models for Multi-Label Classification of Historical Dataset"** 
 
-INFORMATION ON THE DIRECT AND INDIRECT CODE:
+The code for KATE and LLMaAA were adapted from [LLMaAA](https://github.com/ridiculouz/LLMaAA/tree/main) and [The Direct and Indirect Annotation](https://github.com/trister95/direct-and-indirect-annotation)
+
+The repository is organized as follows:
 
 
 Direct Method: Uses few and zero shot technique through open model (Qwen and Mistral) and Close Models (Gemini and Claude) to annotate the unlabeled dataset using the libraries like outlines and pydantic to control the output generation.
