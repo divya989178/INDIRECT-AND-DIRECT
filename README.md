@@ -7,6 +7,10 @@ The code for KATE and LLMaAA were adapted from [LLMaAA](https://github.com/ridic
 
 The repository is organized as follows:
 
+## Results
+
+This folder consists of the results of Gold and Silver standard training examples, Zero shot and KATE, LLMaAA
+
 ## Data
 
 Consists of the datasplit (demo/val/test) obtained from the JSON file 
