@@ -7,6 +7,10 @@ The code for KATE and LLMaAA were adapted from [LLMaAA](https://github.com/ridic
 
 The repository is organized as follows:
 
+## Data
+
+Consists of the datasplit (demo/val/test) obtained from the JSON file 
+
 
 Direct Method: Uses few and zero shot technique through open model (Qwen and Mistral) and Close Models (Gemini and Claude) to annotate the unlabeled dataset using the libraries like outlines and pydantic to control the output generation.
 
